@@ -1,0 +1,3 @@
+[submodule "crystalBoot"]
+	path = crystalBoot
+	url = https://github.com/Crystal-Photonics/crystalBoot.git
